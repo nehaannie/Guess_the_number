@@ -50,13 +50,13 @@ The game includes features such as limiting the number of attempts, multiple rou
 Preview
 
 <h3>1.PREVIEW OF INTERFACE</h3>
-<img src="img1.jpg" alt="Image 1" width="200" height="200">
+<center><img src="img1.jpg" alt="Image 1" width="300" height="300"></center>
 <br>
 <h3>2.PREVIEW OF GUESSING</h3> 
-<img src="img2.jpg" alt="Image 2" width="200" height="200">
+<center>><img src="img2.jpg" alt="Image 2" width="300" height="300"></center>
 <br>
 <h3>3.MAX ATTEMPTS REACHED</h3>
-<img src="img3.jpg" alt="Image 3" width="200" height="200">
+<center><img src="img3.jpg" alt="Image 3" width="300" height="300"></center>
 <br>
 
     
